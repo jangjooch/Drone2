@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="syk-drone-lib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/syk_drone_lib_jar</output-path>
+    <root id="archive" name="syk-drone-lib.jar">
+      <element id="module-output" name="syk-drone-lib" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="exam02.Main">
+   <children>
+      <Button layoutX="155.0" layoutY="219.0" mnemonicParsing="false" text="Btn03" />
+      <Button layoutX="86.0" layoutY="219.0" mnemonicParsing="false" text="Btn02" />
+      <Button layoutX="14.0" layoutY="219.0" mnemonicParsing="false" text="Btn01" />
+      <BorderPane layoutX="348.0" layoutY="14.0" prefHeight="235.0" prefWidth="238.0">
+         <top>
+            <Button mnemonicParsing="false" text="^" BorderPane.alignment="CENTER" />
+         </top>
+         <left>
+            <Button mnemonicParsing="false" text="&lt;" BorderPane.alignment="CENTER" />
+         </left>
+         <right>
+            <Button mnemonicParsing="false" text="&gt;" BorderPane.alignment="CENTER" />
+         </right>
+         <center>
+            <Button mnemonicParsing="false" text="O" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <HBox layoutX="14.0" layoutY="14.0" prefHeight="122.0">
+         <children>
+            <Button mnemonicParsing="false" text="HboxBtn01" />
+            <Button mnemonicParsing="false" text="HboxBtn02" />
+            <Button mnemonicParsing="false" text="HboxBtn03" />
+         </children>
+      </HBox>
+      <SplitPane dividerPositions="0.5" layoutX="18.0" layoutY="287.0" orientation="VERTICAL" prefHeight="307.0" prefWidth="275.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <CheckBox layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="CheckBox" />
+                  <CheckBox layoutX="14.0" layoutY="39.0" mnemonicParsing="false" text="CheckBox" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <ColorPicker layoutX="14.0" layoutY="29.0" />
+                  <ColorPicker layoutX="14.0" layoutY="75.0" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+      <StackPane layoutX="300.0" layoutY="287.0" prefHeight="307.0" prefWidth="246.0">
+         <children>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ff0000;" />
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Button" />
+               </children>
+            </AnchorPane>
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>

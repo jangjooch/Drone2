@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaFXBasic/JavaFXBasic.iml" filepath="$PROJECT_DIR$/JavaFXBasic/JavaFXBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syk-drone-lib/syk-drone-lib.iml" filepath="$PROJECT_DIR$/syk-drone-lib/syk-drone-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syk-sample-drone/syk-sample-drone.iml" filepath="$PROJECT_DIR$/syk-sample-drone/syk-sample-drone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syk-sample-gcs/syk-sample-gcs.iml" filepath="$PROJECT_DIR$/syk-sample-gcs/syk-sample-gcs.iml" />
+    </modules>
+  </component>
+</project>
