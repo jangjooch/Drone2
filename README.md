@@ -11,6 +11,12 @@ https://cafe.naver.com/thisisjava/26184
 ![image](https://github.com/user-attachments/assets/4ca4015c-7b28-4086-a4f8-dd34dd0317fd)
 미국의 스모크 점퍼 부대란 산불 초기 대응을 위한 투입 부대로 신속, 정확한 위치에 투입되어 피해를 최소화 하는 부대입니다. 화재 진압 시 위험 현장에 필요한 구호 물품을 드론으로 보급하는 프로젝트를 구현하였습니다.
 
+MQTT Broker를 이용한 실시간 Drone, Android, Web, GCS 연동 
+
+![image](https://github.com/user-attachments/assets/ec272be1-2670-44be-8248-b1acb39f81f4)
+
+
+
 드론 컨트롤 프로그램 GCS (Ground Control System)
 - 메인 화면 
 - 드론 상태, 실시간 정보, 지도 및 미션 생성, 서비스 및 명령 창 -
