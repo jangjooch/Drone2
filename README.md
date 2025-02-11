@@ -42,8 +42,10 @@ Android App (안드로이드)
 - 드론 출발 후 드론 위치 실시간 확인 
 ![image](https://github.com/user-attachments/assets/d796cb8b-97a4-4dfc-baa7-8a79e84064a3)
 
-- 드론 도착 시 상세 조종 
+- 드론 도착 시 상세 조종
+  
 ![image](https://github.com/user-attachments/assets/0a44f32a-299f-42d6-a9fc-19b131a254a8)
+
 
 Web Page (웹페이지 관리자 페이지)
 - 요청 담당자 페이지 
